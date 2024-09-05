@@ -1,0 +1,1 @@
+ALTER TABLE `commandes` MODIFY COLUMN `dateCommande` datetime;
